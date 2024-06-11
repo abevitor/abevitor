@@ -13,8 +13,8 @@
 <div align="center">
 	<h3> skills & tools </h3>
 	<a href="https://github.com/abevitor/exercicios-java"><img align="center" height="200" width="100" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/></a>
-	<img align="center" height="200" width="100" alt="JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-	<img align="center" height="200" width="100" alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+	<a href="https://github.com/abevitor/tabela"><img align="center" height="200" width="100" alt="JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></a>
+	<a href="https://github.com/abevitor/python"><img align="center" height="200" width="100" alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></a>
 
 ##
 
