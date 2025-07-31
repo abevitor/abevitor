@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E0E0E0&center=true&vCenter=true&width=500&lines=I'm+Vitor+☣︎;welcome+to+my+profile!"(https://git.io/typing-svg)>
 </p>
 
-<p align="center">
-  <img src="https://c.tenor.com/d6Z_NDa4B3UAAAAM/bladee-egobaby.gif">
-</p>
-<br/><br/>
+
 
 <div align="center">
 	<h3> skills & tools </h3>
 	<a href="https://github.com/abevitor/exercicios-java"><img align="center" height="200" width="100" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/></a>
+ <img align="center" height="200" width="100" alt="SpringBoot" src="https://dominickm.com/wp-content/uploads/2016/06/spring-boot-logo_full.png"/>
+        
+ 
 	
 
 ##
