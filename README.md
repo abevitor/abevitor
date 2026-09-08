@@ -98,17 +98,37 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <div align="center">
 
 <a href="https://github.com/abevitor/ToDoAPIRest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abevitor&repo=ToDoAPIRest&theme=dark&bg_color=0D1117&title_color=7300AB&icon_color=7300AB"/>
+  <h3>📋 ToDo API REST</h3>
 </a>
 
+<p>
+  REST API for task management developed with Java and Spring Boot.
+</p>
+
+<br/>
+
 <a href="https://github.com/abevitor/exercicios-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abevitor&repo=exercicios-java&theme=dark&bg_color=0D1117&title_color=7300AB&icon_color=7300AB"/>
+  <h3>☕ Java Exercises</h3>
 </a>
+
+<p>
+  Repository containing exercises and practices developed while studying Java.
+</p>
+
+<br/>
+
+<a href="https://abevitor.github.io/portfolio/">
+  <h3>🌐 Portfolio</h3>
+</a>
+
+<p>
+  Personal portfolio showcasing my projects, skills and technologies.
+</p>
 
 </div>
 
