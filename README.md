@@ -98,42 +98,6 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/abevitor/ToDoAPIRest">
-  <h3>📋 ToDo API REST</h3>
-</a>
-
-<p>
-  REST API for task management developed with Java and Spring Boot.
-</p>
-
-<br/>
-
-<a href="https://github.com/abevitor/exercicios-java">
-  <h3>☕ Java Exercises</h3>
-</a>
-
-<p>
-  Repository containing exercises and practices developed while studying Java.
-</p>
-
-<br/>
-
-<a href="https://abevitor.github.io/portfolio/">
-  <h3>🌐 Portfolio</h3>
-</a>
-
-<p>
-  Personal portfolio showcasing my projects, skills and technologies.
-</p>
-
-</div>
-
----
-
 <h2 align="center">📚 Currently Learning</h2>
 
 <div align="center">
